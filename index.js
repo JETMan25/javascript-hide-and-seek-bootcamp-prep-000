@@ -1,4 +1,4 @@
-function getFirstSelector(selector){
+function getFirstSelector('div'){
   getElementByID('div');
   return 'div'
 }
